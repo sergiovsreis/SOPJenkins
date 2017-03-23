@@ -12,6 +12,7 @@ package domain;
 public class User {
    private String name;
    private String surname;
+   
     
     public User(String name)
     {
