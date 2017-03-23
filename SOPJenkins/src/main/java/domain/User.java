@@ -10,8 +10,8 @@ package domain;
  * @author fhict
  */
 public class User {
-   private String name;
-   private String surname;
+   private String name
+   private String surname
     
     public User(String name)
     {
