@@ -12,7 +12,7 @@ package domain;
 public class Car {
 
     private int passengers;
-
+    private int test;
     
 
     public void setPassengers(int passengers) {
