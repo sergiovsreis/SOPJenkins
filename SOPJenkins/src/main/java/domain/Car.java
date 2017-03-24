@@ -13,6 +13,7 @@ public class Car {
 
     private int passengers;
     private int test;
+    private int weels;
     
 
     public void setPassengers(int passengers) {
