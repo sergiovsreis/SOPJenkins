@@ -21,7 +21,7 @@ public class UserTest {
     public void createUser() {
         User tempUser = new User("Sergio");
         
-       assertEquals(tempUser.getName(),"Serio");
+       assertEquals(tempUser.getName(),"Sergio");
         
     }
     
